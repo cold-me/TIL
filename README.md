@@ -6,4 +6,5 @@
 
 ### 리액트
 
+-   [2025년 3월 31일 - VanilaJS와 React의 비교](./React/basic.md)
 -   [2025년 3월 31일 - 일반변수와 상태변수](./React/useState.md)
