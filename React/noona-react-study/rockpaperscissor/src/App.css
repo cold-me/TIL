@@ -1,0 +1,49 @@
+.box {
+    width: 500px;
+    height: 800px;
+}
+.black-border {
+    border: 5cap solid black;
+}
+
+.red-border {
+    border: 5cap solid red;
+}
+.green-border {
+    border: 5cap solid green;
+}
+.blue-border {
+    border: 5cap solid blue;
+}
+
+.item-img {
+    width: 400px;
+}
+
+.result-img {
+    margin: 40px;
+    width: 200px;
+}
+.main-horizontal {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.history-box {
+    border: 4cap solid gold;
+    width: 1130px;
+}
+.main-vertical {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+}
+.history-box li {
+    list-style-type: none;
+}
+
+button:hover {
+    background-color: gold;
+}
